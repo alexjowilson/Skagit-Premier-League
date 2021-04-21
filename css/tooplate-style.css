@@ -173,7 +173,7 @@ p {
 }
 
 #header .logo img {
-  width: 100%;
+  width: 100px;
   overflow: hidden;
   margin-top: 30px;
 }
@@ -775,6 +775,7 @@ a.active:after {
 
 .banner .center-image .inside-content img {
   width: 100%;
+  height:max-content;
   overflow: hidden;
 }
 
