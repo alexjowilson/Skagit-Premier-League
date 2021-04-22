@@ -372,9 +372,13 @@ p {
 } 
 
 .heading-page h2 {
-  margin-top: 0px;
+  margin-top: 70px;
   font-size: 28px;
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
 
 .heading-page .line-dec {
