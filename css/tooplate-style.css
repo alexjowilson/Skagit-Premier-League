@@ -170,12 +170,20 @@ p {
   float: left;
   margin-left: 30px;
   z-index: 200;
+  cursor: pointer;
 }
 
 #header .logo img {
   width: 100px;
   overflow: hidden;
   margin-top: 30px;
+  cursor:pointer;
+}
+
+.logo{
+
+  float: left;
+  margin-left: 30px;
 }
 
 .menu {
@@ -795,7 +803,7 @@ a.active:after {
 
 .banner .center-image .inside-content img {
   width: 100%;
-  height:max-content;
+  height:100%;
   overflow: hidden;
 }
 
